@@ -1,12 +1,12 @@
 {
-  "name": "http-hash-router",
-  "version": "1.1.0",
+  "name": "http-hash-router-updated",
+  "version": "3.0.0",
   "description": "Server route handler for http-hash",
   "keywords": [],
   "author": "Matt Esch <matt@mattesch.info>",
   "repository": {
     "type": "git",
-    "url": "git://github.com/Matt-Esch/http-hash-router.git"
+    "url": "git://github.com/jonahss/http-hash-router.git"
   },
   "dependencies": {
     "error": "^5.0.0",
